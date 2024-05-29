@@ -1,0 +1,10 @@
+dataset
+resized
+normalized
+no_outliers
+normalized_no_outliers
+anisotropic_filtering
+bilateral_filtering
+normalized_bilateral_filtering
+normalized_bilateral_filtering_no_otliers
+original(resized)
