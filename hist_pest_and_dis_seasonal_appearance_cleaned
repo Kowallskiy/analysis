@@ -1,0 +1,216 @@
+,Crop_Type,Disease_Type,Disease_Name,Damage Severity,Control_Methods,month
+4,Apple,Fungi,Apple Scab,Mild,Fungicide spray,6
+5,Apple,Fungi,Apple Scab,Severe,Fungicide spray,6
+6,Apple,Fungi,Apple Scab,Moderate,Fungicide spray,6
+8,Parsley,Virus,Parsley Leaf Curl Virus,Moderate,Remove infected plants,6
+10,Orange,Bacteria,Citrus Canker,Mild,Copper spray,6
+11,Parsley,Virus,Parsley Leaf Curl Virus,Mild,Remove infected plants,6
+9,Parsley,Fungi,Downy Mildew,Moderate,Fungicide spray,6
+13,Potato,Bacteria,Blackleg,Severe,Remove infected plants,7
+12,Parsley,Fungi,Downy Mildew,Mild,Fungicide spray,7
+14,Parsley,Virus,Parsley Leaf Curl Virus,Severe,Remove infected plants,7
+26,Tomato,Fungi,Early Blight,Moderate,Fungicide spray,9
+115,Parsley,Pest,Leafminers,Moderate,Natural predators,5
+35,Zucchini,Pest,Squash Vine Borer,Severe,Insecticides,5
+15,Parsley,Fungi,Downy Mildew,Severe,Fungicide spray,6
+16,Tomato,Virus,Tomato Mosaic Virus,Moderate,Remove infected plants,6
+17,Parsley,Virus,Parsley Leaf Curl Virus,Moderate,Remove infected plants,6
+203,Lettuce,Pest,Leafminers,Mild,Insecticidal soap,6
+202,Lettuce,Pest,Leafminers,Moderate,Insecticidal soap,6
+204,Lettuce,Pest,Leafminers,Severe,Insecticidal soap,6
+205,Carrots,Bacteria,Bacterial Soft Rot,Severe,Remove infected plants,6
+216,Strawberry,Fungi,Botrytis Fruit Rot,Mild,Fungicide spray,6
+207,Carrots,Virus,Carrot Motley Dwarf Virus,Moderate,Remove infected plants,6
+215,Strawberry,Fungi,Botrytis Fruit Rot,Moderate,Fungicide spray,6
+208,Tomato,Fungi,Late Blight,Moderate,Fungicide spray,6
+209,Tomato,Fungi,Late Blight,Mild,Fungicide spray,6
+210,Orange,Pest,Citrus Leafminer,Moderate,Insecticides,6
+206,Basil,Pest,Japanese Beetles,Severe,Hand picking,6
+201,Kale,Bacteria,Black Rot,Severe,Crop rotation,6
+195,Basil,Virus,Basil Downy Mildew Virus,Severe,Remove infected plants,6
+199,Kale,Pest,Cabbage Worm,Mild,Insecticides,6
+198,Kale,Pest,Aphids,Severe,Natural predators,6
+197,Kale,Bacteria,Black Rot,Moderate,Crop rotation,6
+196,Basil,Bacteria,Bacterial Leaf Spot,Mild,Copper fungicide,6
+211,Orange,Pest,Citrus Leafminer,Mild,Insecticides,6
+194,Basil,Virus,Basil Downy Mildew Virus,Mild,Remove infected plants,6
+193,Basil,Virus,Basil Downy Mildew Virus,Moderate,Remove infected plants,6
+192,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Severe,Remove infected plants,6
+191,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Mild,Remove infected plants,6
+190,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Moderate,Remove infected plants,6
+189,Lettuce,Fungi,Downy Mildew,Mild,Fungicide spray,6
+200,Kale,Pest,Cabbage Worm,Severe,Insecticides,6
+188,Lettuce,Fungi,Downy Mildew,Moderate,Fungicide spray,6
+187,Apple,Pest,Codling Moth,Severe,Pheromone traps,6
+213,Cucumber,Fungi,Powdery Mildew,Mild,Fungicide spray,6
+212,Orange,Pest,Citrus Leafminer,Severe,Insecticides,6
+18,Cucumber,Virus,Cucumber Mosaic Virus,Mild,Remove infected plants,7
+20,Basil,Bacteria,Bacterial Leaf Spot,Mild,Copper fungicide,7
+21,Apple,Virus,Apple Mosaic Virus,Severe,Remove infected plants,7
+22,Carrots,Fungi,Alternaria Leaf Blight,Moderate,Fungicide spray,7
+24,Potato,Bacteria,Blackleg,Moderate,Remove infected plants,7
+25,Parsley,Pest,Leafminers,Moderate,Natural predators,7
+27,Carrots,Fungi,Alternaria Leaf Blight,Severe,Fungicide spray,7
+28,Carrots,Virus,Carrot Motley Dwarf Virus,Moderate,Remove infected plants,7
+19,Orange,Fungi,Phytophthora Root Rot,Moderate,Fungicide drench,7
+29,Lettuce,Virus,Lettuce Mosaic Virus,Mild,Remove infected plants,7
+32,Potato,Bacteria,Blackleg,Mild,Remove infected plants,7
+33,Basil,Pest,Japanese Beetles,Severe,Hand picking,7
+34,Parsley,Pest,Leafminers,Mild,Natural predators,7
+36,Tomato,Fungi,Early Blight,Mild,Fungicide spray,7
+37,Potato,Virus,Potato Virus Y,Severe,Remove infected plants,7
+38,Potato,Bacteria,Blackleg,Mild,Remove infected plants,7
+39,Carrots,Virus,Carrot Motley Dwarf Virus,Mild,Remove infected plants,7
+31,Cucumber,Virus,Cucumber Mosaic Virus,Severe,Remove infected plants,7
+30,Kale,Virus,Turnip Mosaic Virus,Moderate,Remove infected plants,7
+43,Orange,Fungi,Phytophthora Root Rot,Mild,Fungicide drench,7
+44,Kale,Bacteria,Black Rot,Severe,Crop rotation,7
+42,Cucumber,Virus,Cucumber Mosaic Virus,Moderate,Remove infected plants,7
+45,Potato,Bacteria,Blackleg,Severe,Remove infected plants,7
+46,Zucchini,Pest,Squash Vine Borer,Moderate,Insecticides,7
+47,Zucchini,Pest,Squash Vine Borer,Severe,Insecticides,7
+48,Tomato,Fungi,Early Blight,Severe,Fungicide spray,7
+49,Cucumber,Fungi,Powdery Mildew,Moderate,Fungicide spray,7
+50,Lettuce,Pest,Lettuce Aphid,Severe,Insecticidal soap,7
+40,Lettuce,Virus,Lettuce Mosaic Virus,Severe,Remove infected plants,7
+41,Kale,Virus,Turnip Mosaic Virus,Mild,Remove infected plants,7
+55,Potato,Bacteria,Blackleg,Moderate,Remove infected plants,7
+52,Kale,Virus,Turnip Mosaic Virus,Severe,Remove infected plants,7
+51,Lettuce,Virus,Lettuce Mosaic Virus,Moderate,Remove infected plants,7
+56,Carrots,Bacteria,Bacterial Soft Rot,Moderate,Remove infected plants,7
+57,Zucchini,Pest,Squash Vine Borer,Mild,Insecticides,7
+58,Tomato,Fungi,Early Blight,Moderate,Fungicide spray,7
+59,Potato,Virus,Potato Virus Y,Moderate,Remove infected plants,7
+60,Potato,Bacteria,Blackleg,Severe,Remove infected plants,7
+61,Lettuce,Pest,Lettuce Aphid,Moderate,Insecticidal soap,7
+54,Basil,Bacteria,Bacterial Leaf Spot,Severe,Copper fungicide,7
+53,Cucumber,Virus,Cucumber Mosaic Virus,Mild,Remove infected plants,7
+62,Lettuce,Virus,Lettuce Mosaic Virus,Severe,Remove infected plants,8
+69,Zucchini,Pest,Squash Vine Borer,Moderate,Insecticides,8
+63,Kale,Virus,Turnip Mosaic Virus,Mild,Remove infected plants,8
+64,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Moderate,Remove infected plants,8
+65,Orange,Fungi,Phytophthora Root Rot,Mild,Fungicide drench,8
+66,Apple,Fungi,Apple Scab,Severe,Fungicide spray,8
+67,Lettuce,Pest,Leafminers,Moderate,Insecticidal soap,8
+68,Carrots,Bacteria,Bacterial Soft Rot,Severe,Remove infected plants,8
+74,Lettuce,Pest,Lettuce Aphid,Severe,Insecticidal soap,8
+70,Potato,Virus,Potato Virus Y,Mild,Remove infected plants,8
+71,Orange,Pest,Citrus Leafminer,Moderate,Insecticides,8
+72,Potato,Bacteria,Blackleg,Moderate,Remove infected plants,8
+73,Cucumber,Fungi,Powdery Mildew,Severe,Fungicide spray,8
+23,Kale,Bacteria,Black Rot,Mild,Crop rotation,9
+2,Cucumber,Virus,Cucumber Mosaic Virus,Mild,Removal of infected plants,5
+77,Cucumber,Virus,Cucumber Mosaic Virus,Severe,Remove infected plants,8
+75,Lettuce,Virus,Lettuce Mosaic Virus,Mild,Remove infected plants,8
+76,Kale,Virus,Turnip Mosaic Virus,Moderate,Remove infected plants,8
+84,Tomato,Fungi,Early Blight,Mild,Fungicide spray,8
+79,Kale,Bacteria,Black Rot,Moderate,Crop rotation,8
+80,Potato,Bacteria,Blackleg,Mild,Remove infected plants,8
+81,Carrots,Bacteria,Bacterial Soft Rot,Mild,Remove infected plants,8
+82,Basil,Pest,Japanese Beetles,Mild,Hand picking,8
+83,Zucchini,Pest,Squash Vine Borer,Severe,Insecticides,8
+85,Lettuce,Pest,Lettuce Aphid,Mild,Insecticidal soap,8
+78,Orange,Fungi,Phytophthora Root Rot,Severe,Fungicide drench,8
+87,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Mild,Remove infected plants,8
+89,Apple,Fungi,Apple Scab,Moderate,Fungicide spray,8
+90,Basil,Virus,Basil Downy Mildew Virus,Mild,Remove infected plants,8
+91,Basil,Bacteria,Bacterial Leaf Spot,Moderate,Copper fungicide,8
+92,Kale,Bacteria,Black Rot,Mild,Crop rotation,8
+96,Potato,Bacteria,Blackleg,Severe,Remove infected plants,8
+94,Carrots,Bacteria,Bacterial Soft Rot,Moderate,Remove infected plants,8
+95,Orange,Pest,Citrus Leafminer,Mild,Insecticides,8
+97,Lettuce,Pest,Lettuce Aphid,Moderate,Insecticidal soap,8
+86,Kale,Virus,Turnip Mosaic Virus,Severe,Remove infected plants,8
+93,Lettuce,Pest,Leafminers,Mild,Insecticidal soap,8
+88,Orange,Fungi,Phytophthora Root Rot,Moderate,Fungicide drench,8
+108,Potato,Bacteria,Blackleg,Mild,Remove infected plants,8
+99,Basil,Virus,Basil Downy Mildew Virus,Severe,Remove infected plants,8
+101,Lettuce,Pest,Leafminers,Severe,Insecticidal soap,8
+102,Tomato,Virus,Tomato Mosaic Virus,Moderate,Remove infected plants,8
+103,Carrots,Bacteria,Bacterial Soft Rot,Mild,Remove infected plants,8
+104,Basil,Pest,Japanese Beetles,Moderate,Hand picking,8
+105,Orange,Fungi,Greasy Spot,Severe,Fungicide spray,8
+106,Potato,Virus,Potato Virus Y,Severe,Remove infected plants,8
+107,Orange,Pest,Citrus Leafminer,Severe,Insecticides,8
+109,Lettuce,Pest,Lettuce Aphid,Mild,Insecticidal soap,8
+98,Zucchini,Virus,Zucchini Yellow Mosaic Virus,Severe,Remove infected plants,8
+100,Parsley,Virus,Parsley Leaf Curl Virus,Mild,Remove infected plants,9
+119,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Moderate,Remove infected plants,6
+110,Parsley,Pest,Aphids,Mild,Natural predators,6
+112,Apple,Virus,Apple Mosaic Virus,Severe,Remove infected plants,6
+113,Carrots,Fungi,Alternaria Leaf Blight,Moderate,Fungicide spray,6
+114,Cucumber,Pest,Cucumber Beetles,Severe,Insecticides,6
+116,Potato,Virus,Potato Virus Y,Moderate,Remove infected plants,6
+117,Lettuce,Fungi,Gray Mold,Moderate,Fungicide spray,6
+118,Carrots,Virus,Carrot Motley Dwarf Virus,Moderate,Remove infected plants,6
+111,Basil,Bacteria,Bacterial Leaf Spot,Moderate,Copper fungicide,6
+120,Potato,Pest,Colorado Potato Beetle,Severe,Insecticides,6
+124,Kale,Bacteria,Black Rot,Moderate,Crop rotation,6
+123,Carrots,Fungi,Alternaria Leaf Blight,Mild,Fungicide spray,6
+125,Cucumber,Pest,Cucumber Beetles,Moderate,Insecticides,6
+122,Apple,Virus,Apple Mosaic Virus,Moderate,Remove infected plants,6
+121,Orange,Fungi,Phytophthora Root Rot,Severe,Fungicide drench,6
+126,Basil,Pest,Japanese Beetles,Moderate,Hand picking,6
+127,Parsley,Pest,Leafminers,Mild,Natural predators,6
+128,Cucumber,Fungi,Powdery Mildew,Severe,Fungicide spray,6
+129,Lettuce,Fungi,Gray Mold,Mild,Fungicide spray,6
+130,Carrots,Virus,Carrot Motley Dwarf Virus,Mild,Remove infected plants,6
+131,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Mild,Remove infected plants,6
+136,Cucumber,Pest,Cucumber Beetles,Mild,Insecticides,6
+132,Cucumber,Virus,Cucumber Mosaic Virus,Moderate,Remove infected plants,6
+133,Apple,Virus,Apple Mosaic Virus,Mild,Remove infected plants,6
+134,Basil,Fungi,Fusarium Wilt,Severe,Fungicide soil drench,6
+135,Carrots,Fungi,Alternaria Leaf Blight,Severe,Fungicide spray,6
+142,Carrots,Virus,Carrot Motley Dwarf Virus,Severe,Remove infected plants,6
+137,Parsley,Pest,Leafminers,Severe,Natural predators,6
+141,Cucumber,Fungi,Powdery Mildew,Mild,Fungicide spray,6
+140,Potato,Bacteria,Blackleg,Moderate,Remove infected plants,6
+138,Tomato,Fungi,Early Blight,Severe,Fungicide spray,6
+139,Potato,Virus,Potato Virus Y,Mild,Remove infected plants,6
+144,Parsley,Virus,Parsley Leaf Curl Virus,Mild,Remove infected plants,7
+143,Parsley,Fungi,Downy Mildew,Moderate,Fungicide spray,7
+1,Potato,Bacteria,Bacterial Wilt,Severe,"Crop rotation, resistant varieties",9
+7,Apple,Fungi,Apple Scab,Mild,Fungicide spray,5
+153,Strawberry,Fungi,Botrytis Fruit Rot,Severe,Fungicide spray,7
+145,Lettuce,Virus,Lettuce Mosaic Virus,Moderate,Remove infected plants,7
+146,Lettuce,Fungi,Downy Mildew,Severe,Fungicide spray,7
+147,Basil,Virus,Basil Downy Mildew Virus,Moderate,Remove infected plants,7
+148,Kale,Pest,Cabbage Worm,Moderate,Insecticides,7
+149,Basil,Pest,Japanese Beetles,Moderate,Hand picking,7
+150,Tomato,Fungi,Late Blight,Severe,Fungicide spray,7
+154,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Severe,Remove infected plants,7
+152,Lettuce,Fungi,Gray Mold,Severe,Fungicide spray,7
+151,Cucumber,Fungi,Powdery Mildew,Moderate,Fungicide spray,7
+155,Lettuce,Fungi,Downy Mildew,Moderate,Fungicide spray,7
+156,Basil,Bacteria,Bacterial Leaf Spot,Severe,Copper fungicide,7
+157,Kale,Pest,Cabbage Worm,Mild,Insecticides,7
+161,Tomato,Fungi,Late Blight,Moderate,Fungicide spray,7
+160,Tomato,Fungi,Early Blight,Mild,Fungicide spray,7
+162,Lettuce,Fungi,Gray Mold,Moderate,Fungicide spray,7
+163,Strawberry,Fungi,Botrytis Fruit Rot,Moderate,Fungicide spray,7
+164,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Moderate,Remove infected plants,7
+158,Lettuce,Pest,Lettuce Aphid,Mild,Insecticidal soap,7
+159,Cucumber,Pest,Cucumber Beetles,Severe,Insecticides,7
+170,Cucumber,Pest,Cucumber Beetles,Moderate,Insecticides,7
+166,Lettuce,Fungi,Downy Mildew,Mild,Fungicide spray,7
+168,Kale,Pest,Cabbage Worm,Severe,Insecticides,7
+169,Carrots,Fungi,Alternaria Leaf Blight,Mild,Fungicide spray,7
+171,Tomato,Fungi,Late Blight,Mild,Fungicide spray,7
+172,Lettuce,Fungi,Gray Mold,Mild,Fungicide spray,7
+173,Strawberry,Fungi,Botrytis Fruit Rot,Mild,Fungicide spray,7
+174,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Mild,Remove infected plants,7
+165,Apple,Fungi,Apple Scab,Mild,Fungicide spray,7
+167,Apple,Virus,Apple Mosaic Virus,Moderate,Remove infected plants,7
+175,Lettuce,Fungi,Downy Mildew,Severe,Fungicide spray,7
+178,Carrots,Fungi,Alternaria Leaf Blight,Severe,Fungicide spray,7
+179,Cucumber,Pest,Cucumber Beetles,Mild,Insecticides,7
+180,Parsley,Pest,Leafminers,Severe,Natural predators,7
+181,Tomato,Fungi,Late Blight,Severe,Fungicide spray,7
+182,Lettuce,Fungi,Gray Mold,Severe,Fungicide spray,7
+183,Strawberry,Fungi,Botrytis Fruit Rot,Severe,Fungicide spray,7
+184,Strawberry,Virus,Strawberry Mild Yellow Edge Virus,Severe,Remove infected plants,7
+177,Kale,Pest,Cabbage Worm,Moderate,Insecticides,7
+176,Apple,Virus,Apple Mosaic Virus,Mild,Remove infected plants,7
+0,Tomato,Fungus,Early Blight,Moderate,Copper fungicide spray,7
+186,Parsley,Fungi,Downy Mildew,Mild,Fungicide spray,9
+185,Parsley,Fungi,Downy Mildew,Severe,Fungicide spray,9
