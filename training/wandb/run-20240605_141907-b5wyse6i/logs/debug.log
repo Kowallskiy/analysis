@@ -1,0 +1,70 @@
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Configure stats pid to 5744
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Loading settings from C:\Users\user\.config\wandb\settings
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Loading settings from c:\Users\user\Desktop\analysis\training\wandb\settings
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-06-05 14:19:07,522 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-06-05 14:19:07,524 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-06-05 14:19:07,524 INFO    MainThread:5744 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-06-05 14:19:07,524 INFO    MainThread:5744 [wandb_init.py:_log_setup():520] Logging user logs to c:\Users\user\Desktop\analysis\training\wandb\run-20240605_141907-b5wyse6i\logs\debug.log
+2024-06-05 14:19:07,524 INFO    MainThread:5744 [wandb_init.py:_log_setup():521] Logging internal logs to c:\Users\user\Desktop\analysis\training\wandb\run-20240605_141907-b5wyse6i\logs\debug-internal.log
+2024-06-05 14:19:07,524 INFO    MainThread:5744 [wandb_init.py:_jupyter_setup():466] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001856FA43380>
+2024-06-05 14:19:07,526 INFO    MainThread:5744 [wandb_init.py:init():560] calling init triggers
+2024-06-05 14:19:07,526 INFO    MainThread:5744 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 10, 'architecture': 'resnet18', 'dataset': 'original'}
+2024-06-05 14:19:07,526 INFO    MainThread:5744 [wandb_init.py:init():610] starting backend
+2024-06-05 14:19:07,526 INFO    MainThread:5744 [wandb_init.py:init():614] setting up manager
+2024-06-05 14:19:07,528 INFO    MainThread:5744 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-06-05 14:19:07,533 INFO    MainThread:5744 [wandb_init.py:init():622] backend started and connected
+2024-06-05 14:19:07,535 INFO    MainThread:5744 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2024-06-05 14:19:07,535 INFO    MainThread:5744 [wandb_run.py:_label_probe_notebook():1338] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-06-05 14:19:07,535 INFO    MainThread:5744 [wandb_init.py:init():711] updated telemetry
+2024-06-05 14:19:07,570 INFO    MainThread:5744 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-06-05 14:19:08,934 INFO    MainThread:5744 [wandb_run.py:_on_init():2396] communicating current version
+2024-06-05 14:19:09,634 INFO    MainThread:5744 [wandb_run.py:_on_init():2405] got version response 
+2024-06-05 14:19:09,634 INFO    MainThread:5744 [wandb_init.py:init():795] starting run threads in backend
+2024-06-05 14:19:09,944 INFO    MainThread:5744 [wandb_run.py:_console_start():2374] atexit reg
+2024-06-05 14:19:09,944 INFO    MainThread:5744 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2024-06-05 14:19:09,944 INFO    MainThread:5744 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2024-06-05 14:19:09,944 INFO    MainThread:5744 [wandb_run.py:_redirect():2319] Redirects installed.
+2024-06-05 14:19:09,948 INFO    MainThread:5744 [wandb_init.py:init():838] run started, returning control to user process
+2024-06-05 14:19:09,948 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:09,948 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:12,341 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:12,343 INFO    MainThread:5744 [wandb_watch.py:watch():51] Watching
+2024-06-05 14:19:12,344 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:12,344 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:17,729 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:18,054 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:18,054 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:36,081 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:36,090 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:36,090 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:36,463 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:36,468 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:36,468 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:36,711 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:36,720 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:36,720 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:19:38,655 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:19:39,239 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:19:39,240 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:21:06,854 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:21:07,504 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:21:07,504 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:21:12,603 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:21:12,603 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:21:12,603 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:21:14,264 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:21:14,267 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:21:14,267 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:21:16,640 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:21:16,645 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:21:16,645 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:21:19,762 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:26:35,713 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:26:35,714 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend
+2024-06-05 14:26:44,452 INFO    MainThread:5744 [wandb_init.py:_resume_backend():436] resuming backend
+2024-06-05 14:26:53,971 INFO    MainThread:5744 [wandb_run.py:_config_callback():1376] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': ''}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2024-06-05 14:26:55,722 INFO    MainThread:5744 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-06-05 14:26:55,723 INFO    MainThread:5744 [wandb_init.py:_pause_backend():431] pausing backend

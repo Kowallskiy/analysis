@@ -1,0 +1,52 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-06-05T10:53:38.568701",
+    "startedAt": "2024-06-05T10:53:36.619525",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Kowallskiy/analysis.git",
+        "commit": "f28e61512ea03500f2b353dcee39916632384e2e"
+    },
+    "email": "trane-101@yandex.ru",
+    "root": "C:/Users/user/Desktop/analysis",
+    "host": "DESKTOP-LBPCGCR",
+    "username": "user",
+    "executable": "c:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2000.0,
+        "min": 0.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 0.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 466.06249618530273,
+            "used": 99.61347579956055
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 15.71060562133789
+    }
+}
